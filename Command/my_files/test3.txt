@@ -1,0 +1,3 @@
+
+
+Originally conceived in the context of graphical user interface design, command objects make for good enterprise application design, encouraging a separation between the controller  and domain model tiers. Put more simply, the Command pattern makes for systems that are well organized and easy to extend.
